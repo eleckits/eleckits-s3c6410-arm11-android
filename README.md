@@ -1,0 +1,1 @@
+eleckits-s3c6410-arm11-android
